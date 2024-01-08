@@ -1,4 +1,4 @@
-quantity = 3.9
+quantity = 3.9.7
 itemno = 56711
 kiiod = 2552.76
 price = 49.95
