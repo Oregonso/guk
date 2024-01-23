@@ -1,5 +1,5 @@
 quantity = 3.9
-itemno = 56.9
+itemno = 56
 kiiod = 25
 price = 49.9519
 myorder = "I want to pa {2} dolars for {0} peces of item {11001}."
