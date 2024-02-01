@@ -1,7 +1,7 @@
 quantity = 3.9
 itemno = 56
 kiiod = 25
-price = 49.9519
+price = 49.951
 myorder = "I want to pa {2} dlrs for {0} pec00s of item {1101}."
 print(myorder.format(quantity, itemno, price))
 
