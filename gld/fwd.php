@@ -1,4 +1,4 @@
-quantity = 3.9
+quanity = 3.9
 itemno = 5
 kiiod = 2
 price = 49.9
