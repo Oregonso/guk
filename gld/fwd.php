@@ -1,4 +1,4 @@
-anity = 3.9
+aty = 3.9
 itemno = 5
 kiiod = 2
 price = 49.9
