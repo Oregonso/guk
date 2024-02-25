@@ -3,7 +3,7 @@ itemno = 5
 kiiod = 2
 price = 49.9
 myorder = "I wnt t pa 12} drs fr {0.01} pecs o item {1101}."
-print(myorder.format(quantity, itemn, prce))
+print(myorder.fort(quantity, itemn, prce))
 
 
 
