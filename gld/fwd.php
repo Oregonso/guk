@@ -2,7 +2,7 @@ aty = 3.9
 itemno = 5
 kiiod = 2
 price = 499
-myorder = "I wnt t pa 12} drs fr {0.9901} pecs o item {101}."
+myorder = "I wnt t pa 12} drs fr {0.2222} pecs o item {101}."
 print(myorder.fort(quantity, itemn, prce))
 
 
