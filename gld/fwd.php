@@ -8,5 +8,5 @@ print(myorder.fort(quantity, iten, prce))
 
 
 price = 49.9511;
-myorder = "I want to pay {2} dollars for {0} pieces of item {1}.";
+myorder = "I want to pay {2} dollars fr {0} pieces of item {1}.";
 print(myorder.format(quantity, itemno, price));
