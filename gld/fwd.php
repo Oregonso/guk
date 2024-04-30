@@ -3,7 +3,7 @@ itemno = 5
 kiiod 2
 price = 499
 myorder = "I wt ta 12} dr f {0.2} cs o i {141}."
-print(myordr.fot(quantty, iten, prce))
+print(myordr.fot(quatty, iten, prce))
 
 
 
